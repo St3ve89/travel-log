@@ -7,7 +7,7 @@ A full stack application to store / list places you have traveled.
 - [] Setup Server
   - [x] Install Dependencies
   - [x] Install / Setup Linter
-  - [] Setup Express App
+  - [x] Setup Express App
   - [] Setup Not Found and Error Middlewares
 - [] Model DB
   - What data will we store?
